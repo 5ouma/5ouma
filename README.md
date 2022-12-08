@@ -3,8 +3,8 @@
 <div align="center">
   <a href="https://github.com/5ouma">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/101255979/205854458-602beaed-7083-4ad5-985e-9f7025df5a36.png" width=500>
-      <img src="https://user-images.githubusercontent.com/101255979/205854465-7d1371ef-8f53-463b-99cd-ad3513d2873b.png" width=500  alt="Souma">
+      <source media="(prefers-color-scheme: dark)" width=500 srcset="https://user-images.githubusercontent.com/101255979/205854465-7d1371ef-8f53-463b-99cd-ad3513d2873b.png">
+      <img width=500 alt="Souma" src="https://user-images.githubusercontent.com/101255979/205854458-602beaed-7083-4ad5-985e-9f7025df5a36.png">
     </picture>
   </a>
   <b><p>Japanese minimalistic engineer who has Notion Essentials Badge.</p></b>
@@ -91,14 +91,14 @@
 <div align="center">
   <a href="https://github.com/5ouma">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200">
-      <img alt="GitHub Stats." src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200">
+      <img alt="GitHub Stats." src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200">
     </picture>
   </a>
   <a href="https://github.com/5ouma">
     <picture>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200">
-      <img alt="GitHub Stats." src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10f&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10f&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200">
+      <img alt="GitHub Stats." src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200">
     </picture>
   </a>
 </div>
