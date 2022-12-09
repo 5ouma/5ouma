@@ -27,7 +27,7 @@
 
 </div>
 
-[zsh-image]: https://img.shields.io/badge/Zsh-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square
+[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=gnu-bash&logoColor=white&style=flat-square
 [zsh-link]: https://www.zsh.org
 [cpp-image]: https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square
 [html-image]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square
