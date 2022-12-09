@@ -10,6 +10,18 @@
   <b><p>Japanese minimalistic engineer who has Notion Essentials Badge.</p></b>
 </div>
 
+<div align="center">
+
+[![github-image]][github-link]
+[![credly-image]][credly-link]
+
+</div>
+
+[github-image]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge
+[github-link]: https://www.github.com/5ouma
+[credly-image]: https://img.shields.io/badge/Credly-ff6b00?logo=credly&logoColor=white&style=for-the-badge
+[credly-link]: https://www.credly.com/users/souma
+
 <br>
 
 ## ❯ Languages
