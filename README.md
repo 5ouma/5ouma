@@ -57,6 +57,7 @@
 ![vim-image]
 [![xcode-image]][xcode-link]
 [![notion-image]][notion-link]
+[![inoreader-image]][inoreader-link]
 
 </div>
 
@@ -83,6 +84,8 @@
 [xcode-link]: https://developer.apple.com/xcode
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
 [notion-link]: https://www.notion.so
+[inoreader-image]: https://img.shields.io/badge/Inoreader-4ca0d8?logo=rss&logoColor=white&style=flat-square
+[inoreader-link]: https://www.inoreader.com
 
 <br>
 
