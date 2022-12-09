@@ -18,7 +18,7 @@
 </div>
 
 [github-image]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge
-[github-link]: https://www.github.com/5ouma
+[github-link]: https://github.com/5ouma
 [credly-image]: https://img.shields.io/badge/Credly-ff6b00?logo=credly&logoColor=white&style=for-the-badge
 [credly-link]: https://www.credly.com/users/souma
 
@@ -40,7 +40,7 @@
 </div>
 
 [zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=gnu-bash&logoColor=white&style=flat-square
-[zsh-link]: https://www.zsh.org
+[zsh-link]: https://zsh.org
 [cpp-image]: https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square
 [html-image]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square
 [css-image]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square
