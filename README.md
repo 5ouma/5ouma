@@ -51,6 +51,11 @@
 [![asdf-image]][asdf-link]
 [![ghq-image]][ghq-link]
 [![yarn-image]][yarn-link]
+
+</div>
+
+<div align="center">
+
 [![iterm2-image]][iterm2-link]
 [![powerlevel10k-image]][powerlevel10k-link]
 [![visual studio code-image]][visual studio code-link]
