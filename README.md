@@ -1,14 +1,15 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/5ouma">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" width=500 srcset="https://user-images.githubusercontent.com/101255979/205854465-7d1371ef-8f53-463b-99cd-ad3513d2873b.png">
-      <img width=500 alt="Souma" src="https://user-images.githubusercontent.com/101255979/205854458-602beaed-7083-4ad5-985e-9f7025df5a36.png">
-    </picture>
-  </a>
+
+[<img width=500 src="https://user-images.githubusercontent.com/101255979/205854458-602beaed-7083-4ad5-985e-9f7025df5a36.png">][5ouma-light]
+[<img width=500 src="https://user-images.githubusercontent.com/101255979/205854465-7d1371ef-8f53-463b-99cd-ad3513d2873b.png">][5ouma-dark]
   <b><p>Japanese minimalistic engineer who has Notion Essentials Badge.</p></b>
+
 </div>
+
+[5ouma-light]: https://github.com/5ouma#gh-light-mode-only
+[5ouma-dark]: https://github.com/5ouma#gh-dark-mode-only
 
 <div align="center">
 
