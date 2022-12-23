@@ -83,7 +83,7 @@
 [macos-link]: https://developer.apple.com/macos
 [homebrew-image]: https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=333333&style=flat-square
 [homebrew-link]: https://brew.sh
-[fig-image]: https://img.shields.io/badge/%E2%97%A7%20Fig-000000?style=flat-square
+[fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
 [fig-link]: https://fig.io
 [asdf-image]: https://img.shields.io/badge/asdf-380953?logo=progate&lohoColor=white&style=flat-square
 [asdf-link]: https://asdf-vm.com
