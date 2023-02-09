@@ -14,12 +14,15 @@
 <div align="center">
 
 [![github-image]][github-link]
+[![producthunt-image]][producthunt-link]
 [![credly-image]][credly-link]
 
 </div>
 
 [github-image]: https://img.shields.io/badge/GitHub-5ouma-312f2f?labelColor=181717&logo=github&logoColor=white&style=for-the-badge
 [github-link]: https://github.com/5ouma
+[producthunt-image]: https://img.shields.io/badge/Product%20Hunt-5ouma-e07456?labelColor=da552f&logo=producthunt&logoColor=white&style=for-the-badge
+[producthunt-link]: https://www.producthunt.com/@5ouma
 [credly-image]: https://img.shields.io/badge/Credly-5ouma-ff8832?labelColor=ff6b00&logo=credly&logoColor=white&style=for-the-badge
 [credly-link]: https://www.credly.com/users/5ouma
 
