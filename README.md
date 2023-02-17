@@ -64,7 +64,7 @@
 [![macos-image]][macos-link]
 [![homebrew-image]][homebrew-link]
 [![fig-image]][fig-link]
-[![asdf-image]][asdf-link]
+[![rtx-image]][rtx-link]
 [![ghq-image]][ghq-link]
 [![yarn-image]][yarn-link]
 
@@ -88,8 +88,8 @@
 [homebrew-link]: https://brew.sh
 [fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
 [fig-link]: https://fig.io
-[asdf-image]: https://img.shields.io/badge/asdf-380953?logo=progate&lohoColor=white&style=flat-square
-[asdf-link]: https://asdf-vm.com
+[rtx-image]: https://img.shields.io/badge/rtx-000000?logo=progate&lohoColor=white&style=flat-square
+[rtx-link]: https://github.com/jdxcode/rtx
 [ghq-image]: https://img.shields.io/badge/ghq-F05032?logo=git&logoColor=white&style=flat-square
 [ghq-link]: https://github.com/x-motemen/ghq
 [yarn-image]: https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square
