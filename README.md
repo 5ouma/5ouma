@@ -1,10 +1,11 @@
-<br>
+<br />
 
 <div align="center">
 
-[<img width=500 src="https://raw.githubusercontent.com/5ouma/5ouma/HEAD/images/header-light.png">][5ouma-light]
-[<img width=500 src="https://raw.githubusercontent.com/5ouma/5ouma/HEAD/images/header-dark.png">][5ouma-dark]
-<b><p>Japanese minimalistic engineer who has Notion Essentials Badge.</p></b>
+[<img width=500px src="https://raw.githubusercontent.com/5ouma/5ouma/HEAD/images/header-light.png" />][5ouma-light]
+[<img width=500px src="https://raw.githubusercontent.com/5ouma/5ouma/HEAD/images/header-dark.png" />][5ouma-dark]
+
+**Japanese minimalistic engineer who has Notion Essentials Badge.**
 
 </div>
 
@@ -26,7 +27,7 @@
 [credly-image]: https://img.shields.io/badge/Credly-5ouma-ff8832?labelColor=ff6b00&logo=credly&logoColor=white&style=for-the-badge
 [credly-link]: https://www.credly.com/users/5ouma
 
-<br>
+<br />
 
 ## ❯ Languages
 
@@ -55,7 +56,7 @@
 [swift-link]: https://developer.apple.com/swift
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
 
-<br>
+<br />
 
 ## ❯ Development Environment
 
@@ -67,10 +68,6 @@
 [![rtx-image]][rtx-link]
 [![ghq-image]][ghq-link]
 [![yarn-image]][yarn-link]
-
-</div>
-
-<div align="center">
 
 [![iterm2-image]][iterm2-link]
 [![powerlevel10k-image]][powerlevel10k-link]
@@ -108,15 +105,15 @@
 [inoreader-image]: https://img.shields.io/badge/Inoreader-4ca0d8?logo=rss&logoColor=white&style=flat-square
 [inoreader-link]: https://www.inoreader.com
 
-<br>
+<br />
 
 ## ❯ GitHub Stats
 
 <div align="center">
 
-[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200">][5ouma-light]
-[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200">][5ouma-dark]
-[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200">][5ouma-light]
-[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10f&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200">][5ouma-dark]
+[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200" />][5ouma-light]
+[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200" />][5ouma-dark]
+[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200" />][5ouma-light]
+[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10f&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200" />][5ouma-dark]
 
 </div>
