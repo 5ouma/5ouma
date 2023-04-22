@@ -111,9 +111,9 @@
 
 <div align="center">
 
-[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200" />][5ouma-light]
-[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200" />][5ouma-dark]
-[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&cache_seconds=7200" />][5ouma-light]
-[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&exclude_repo=github-readme-stats&langs_count=10f&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true&cache_seconds=7200" />][5ouma-dark]
+[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true" />][5ouma-light]
+[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true" />][5ouma-dark]
+[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true&" />][5ouma-light]
+[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&&langs_count=10f&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true" />][5ouma-dark]
 
 </div>
