@@ -15,6 +15,7 @@
 <div align="center">
 
 [![github-image]][github-link]
+[![dotpict-image]][dotpict-link]
 [![producthunt-image]][producthunt-link]
 [![credly-image]][credly-link]
 
@@ -22,6 +23,8 @@
 
 [github-image]: https://img.shields.io/badge/GitHub-5ouma-312f2f?labelColor=181717&logo=github&logoColor=white&style=for-the-badge
 [github-link]: https://github.com/5ouma
+[dotpict-image]: https://img.shields.io/badge/dotpict-5ouma-f489b2?labelColor=f15d94&logo=aseprite&logoColor=white&style=for-the-badge
+[dotpict-link]: https://5ouma.dotpict.net
 [producthunt-image]: https://img.shields.io/badge/Product%20Hunt-5ouma-e07456?labelColor=da552f&logo=producthunt&logoColor=white&style=for-the-badge
 [producthunt-link]: https://www.producthunt.com/@5ouma
 [credly-image]: https://img.shields.io/badge/Credly-5ouma-ff8832?labelColor=ff6b00&logo=credly&logoColor=white&style=for-the-badge
