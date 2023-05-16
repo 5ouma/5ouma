@@ -32,7 +32,7 @@
 
 <br />
 
-## ❯ Languages
+## 🅰️ Languages
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 
 <br />
 
-## ❯ Development Environment
+## 💻 Development Environment
 
 <div align="center">
 
@@ -110,7 +110,7 @@
 
 <br />
 
-## ❯ GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
