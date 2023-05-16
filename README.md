@@ -67,8 +67,9 @@
 
 [![macos-image]][macos-link]
 [![homebrew-image]][homebrew-link]
-[![fig-image]][fig-link]
 [![rtx-image]][rtx-link]
+[![sheldon-image]][sheldon-link]
+[![fig-image]][fig-link]
 [![ghq-image]][ghq-link]
 [![yarn-image]][yarn-link]
 
@@ -78,7 +79,6 @@
 ![vim-image]
 [![xcode-image]][xcode-link]
 [![notion-image]][notion-link]
-[![inoreader-image]][inoreader-link]
 
 </div>
 
@@ -86,10 +86,12 @@
 [macos-link]: https://developer.apple.com/macos
 [homebrew-image]: https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=333333&style=flat-square
 [homebrew-link]: https://brew.sh
+[rtx-image]: https://img.shields.io/badge/rtx-000000?logo=progate&logoColor=white&style=flat-square
+[rtx-link]: https://github.com/jdxcode/rtx
+[sheldon-image]: https://img.shields.io/badge/Sheldon-282D3F?logo=addthis&logoColor=white&style=flat-square
+[sheldon-link]: https://github.com/rossmacarthur/sheldon
 [fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
 [fig-link]: https://fig.io
-[rtx-image]: https://img.shields.io/badge/rtx-000000?logo=progate&lohoColor=white&style=flat-square
-[rtx-link]: https://github.com/jdxcode/rtx
 [ghq-image]: https://img.shields.io/badge/ghq-F05032?logo=git&logoColor=white&style=flat-square
 [ghq-link]: https://github.com/x-motemen/ghq
 [yarn-image]: https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square
@@ -105,8 +107,6 @@
 [xcode-link]: https://developer.apple.com/xcode
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
 [notion-link]: https://www.notion.so
-[inoreader-image]: https://img.shields.io/badge/Inoreader-4ca0d8?logo=rss&logoColor=white&style=flat-square
-[inoreader-link]: https://www.inoreader.com
 
 <br />
 
