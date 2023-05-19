@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[<img width=500px src="https://raw.githubusercontent.com/5ouma/5ouma/HEAD/images/header-light.png" />][5ouma-light]
-[<img width=500px src="https://raw.githubusercontent.com/5ouma/5ouma/HEAD/images/header-dark.png" />][5ouma-dark]
+[<img width=500px src="images/header-light.png" alt="5ouma - light" />][5ouma-light]
+[<img width=500px src="images/header-dark.png" alt="5ouma - dark" />][5ouma-dark]
 
 **Japanese minimalistic engineer who has Notion Essentials Badge.**
 
