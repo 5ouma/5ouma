@@ -37,7 +37,7 @@
 [github-link]: https://github.com/5ouma
 [dotpict-image]: https://img.shields.io/badge/dotpict-5ouma-f489b2?labelColor=f15d94&logo=aseprite&logoColor=white&style=for-the-badge
 [dotpict-link]: https://5ouma.dotpict.net
-[producthunt-image]: https://img.shields.io/badge/Product%20Hunt-5ouma-e07456?labelColor=da552f&logo=producthunt&logoColor=white&style=for-the-badge
+[producthunt-image]: https://img.shields.io/badge/Product_Hunt-5ouma-e07456?labelColor=da552f&logo=producthunt&logoColor=white&style=for-the-badge
 [producthunt-link]: https://www.producthunt.com/@5ouma
 [credly-image]: https://img.shields.io/badge/Credly-5ouma-ff8832?labelColor=ff6b00&logo=credly&logoColor=white&style=for-the-badge
 [credly-link]: https://www.credly.com/users/5ouma
@@ -87,7 +87,7 @@
 <br />
 [![iterm2-image]][iterm2-link]
 [![powerlevel10k-image]][powerlevel10k-link]
-[![visual studio code-image]][visual studio code-link]
+[![vscode-image]][vscode-link]
 ![vim-image]
 [![xcode-image]][xcode-link]
 [![notion-image]][notion-link]
@@ -110,10 +110,10 @@
 [yarn-link]: https://yarnpkg.com
 [iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
 [iterm2-link]: https://iterm2.com
-[powerlevel10k-image]: https://img.shields.io/badge/❯%20Powerlevel10k-e34a10?style=flat-square
+[powerlevel10k-image]: https://img.shields.io/badge/❯_Powerlevel10k-e34a10?style=flat-square
 [powerlevel10k-link]: https://github.com/romkatv/powerlevel10k
-[visual studio code-image]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
-[visual studio code-link]: https://code.visualstudio.com
+[vscode-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
+[vscode-link]: https://code.visualstudio.com
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
 [xcode-image]: https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square
 [xcode-link]: https://developer.apple.com/xcode
