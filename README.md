@@ -5,7 +5,7 @@
 [<img width=500px src="images/header-light.png" alt="5ouma - light" />][5ouma-light]
 [<img width=500px src="images/header-dark.png" alt="5ouma - dark" />][5ouma-dark]
 
-**🍩 Japanese minimalistic engineer who has Notion Essentials Badge.**
+**🖥 Japanese minimalistic engineer who has Notion Essentials Badge.**
 <br />
 **🏞️ Also drawing pixel art.**
 
