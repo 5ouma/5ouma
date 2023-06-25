@@ -30,7 +30,7 @@
 [read.cv-image]: https://img.shields.io/badge/read.cv-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
 [read.cv-link]: https://5ouma.read.cv
 [posts-image]: https://img.shields.io/badge/Posts-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
-[posts-link]: https://posts/5ouma
+[posts-link]: https://posts.cv/5ouma
 [bento-image]: https://img.shields.io/badge/Bento-5ouma-a8b6ff?labelColor=768cff&logo=bento&logoColor=white&style=for-the-badge
 [bento-link]: https://bento.me/5ouma
 [github-image]: https://img.shields.io/badge/GitHub-5ouma-312f2f?labelColor=181717&logo=github&logoColor=white&style=for-the-badge
