@@ -133,22 +133,22 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true"
+      srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&title_color=242424&text_color=242424&icon_color=242424&bg_color=00000000&hide_border=true&show_icons=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true"
+      srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=00000000&hide_border=true&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
     <img height=180px alt="GitHub Stats" />
   </picture>
   <picture>
     <source
-      srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true"
+      srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&title_color=242424&text_color=242424&icon_color=242424&bg_color=00000000&hide_border=true&layout=compact&langs_count=10"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true"
+      srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=00000000&hide_border=true&layout=compact&langs_count=10"
       media="(prefers-color-scheme: dark)"
     />
     <img height=180px alt="Most Used Languages" />
