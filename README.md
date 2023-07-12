@@ -2,17 +2,23 @@
 
 <div align="center">
 
-[<img width=500px src="images/header-light.png" alt="5ouma - light" />][5ouma-light]
-[<img width=500px src="images/header-dark.png" alt="5ouma - dark" />][5ouma-dark]
+<picture>
+  <source
+    srcset="images/header-light.png"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <source
+    srcset="images/header-dark.png"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img width=500px alt="header" />
+</picture>
 
 **🖥 Japanese minimalistic engineer who has Notion Essentials Badge.**
 <br />
 **🏞️ Also drawing pixel art.**
 
 </div>
-
-[5ouma-light]: https://github.com/5ouma#gh-light-mode-only
-[5ouma-dark]: https://github.com/5ouma#gh-dark-mode-only
 
 <div align="center">
 
@@ -125,10 +131,26 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true" />][5ouma-light]
-[<img width=450px src="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true" />][5ouma-dark]
-[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true" />][5ouma-light]
-[<img width=330px src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true" />][5ouma-dark]
-
+  <picture>
+    <source
+      srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&show_icons=true&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height=180px alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=242424&text_color=242424&icon_color=242424&bg_color=ffffff&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&layout=compact&langs_count=10&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=0d1116&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height=180px alt="Most Used Languages" />
+  </picture>
 </div>
