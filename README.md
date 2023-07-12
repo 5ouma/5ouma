@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="images/header-light.png"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <source
-    srcset="images/header-dark.png"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img width=500px alt="header" />
-</picture>
+  <picture>
+    <source
+      srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-dark.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img width=500px alt="header" />
+  </picture>
 
 **🖥 Japanese minimalistic engineer who has Notion Essentials Badge.**
 <br />
