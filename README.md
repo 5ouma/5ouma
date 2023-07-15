@@ -5,13 +5,13 @@
   <picture>
     <source
       srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light)"
     />
     <source
       srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-dark.png"
       media="(prefers-color-scheme: dark)"
     />
-    <img width=500px alt="header" />
+    <img width=500px alt="header" src="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png" />
   </picture>
 
 **🖥 Japanese minimalistic engineer who has Notion Essentials Badge.**
@@ -134,23 +134,23 @@
   <picture>
     <source
       srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&title_color=242424&text_color=242424&icon_color=242424&bg_color=00000000&hide_border=true&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light)"
     />
     <source
       srcset="https://github-read-me-stats.vercel.app/api/?username=5ouma&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=00000000&hide_border=true&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img height=180px alt="GitHub Stats" />
+    <img height=180px alt="GitHub Stats" src="https://github-read-me-stats.vercel.app/api/?username=5ouma&title_color=242424&text_color=242424&icon_color=242424&bg_color=00000000&hide_border=true&show_icons=true" />
   </picture>
   <picture>
     <source
       srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&title_color=242424&text_color=242424&icon_color=242424&bg_color=00000000&hide_border=true&layout=compact&langs_count=10"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      media="(prefers-color-scheme: light)"
     />
     <source
       srcset="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&title_color=f4f4f4&text_color=f4f4f4&icon_color=f4f4f4&bg_color=00000000&hide_border=true&layout=compact&langs_count=10"
       media="(prefers-color-scheme: dark)"
     />
-    <img height=180px alt="Most Used Languages" />
+    <img height=180px alt="Most Used Languages" src="https://github-read-me-stats.vercel.app/api/top-langs/?username=5ouma&title_color=242424&text_color=242424&icon_color=242424&bg_color=00000000&hide_border=true&layout=compact&langs_count=10" />
   </picture>
 </div>
