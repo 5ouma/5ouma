@@ -79,7 +79,7 @@
 
 <br />
 
-## 💻 Development Environment
+## 💻 Development Environments
 
 <div align="center">
 
