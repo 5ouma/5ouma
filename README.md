@@ -59,22 +59,19 @@
 ![html-image]
 ![css-image]
 ![javascript-image]
-[![next.js-image]][next.js-link]
-[![swift-image]][swift-link]
+[![lua-image]][lua-link]
 ![markdown-image]
 
 </div>
 
-[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=gnu-bash&logoColor=white&style=flat-square
+[zsh-image]: https://img.shields.io/badge/Zsh-F15A24?logo=gnu-bash&logoColor=white&style=flat-square
 [zsh-link]: https://zsh.org
 [cpp-image]: https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square
 [html-image]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square
 [css-image]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square
 [javascript-image]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square
-[next.js-image]: https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square
-[next.js-link]: https://nextjs.org
-[swift-image]: https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square
-[swift-link]: https://developer.apple.com/swift
+[lua-image]: https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square
+[lua-link]: https://www.lua.org
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
 
 <br />
@@ -89,13 +86,11 @@
 [![sheldon-image]][sheldon-link]
 [![fig-image]][fig-link]
 [![ghq-image]][ghq-link]
-[![yarn-image]][yarn-link]
 <br />
 [![iterm2-image]][iterm2-link]
 [![powerlevel10k-image]][powerlevel10k-link]
 [![vscode-image]][vscode-link]
-![vim-image]
-[![xcode-image]][xcode-link]
+[![vim-image]][vim-link]
 [![notion-image]][notion-link]
 
 </div>
@@ -112,8 +107,6 @@
 [fig-link]: https://fig.io
 [ghq-image]: https://img.shields.io/badge/ghq-F05032?logo=git&logoColor=white&style=flat-square
 [ghq-link]: https://github.com/x-motemen/ghq
-[yarn-image]: https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat-square
-[yarn-link]: https://yarnpkg.com
 [iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
 [iterm2-link]: https://iterm2.com
 [powerlevel10k-image]: https://img.shields.io/badge/❯_Powerlevel10k-e34a10?style=flat-square
@@ -121,8 +114,7 @@
 [vscode-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
 [vscode-link]: https://code.visualstudio.com
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
-[xcode-image]: https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=flat-square
-[xcode-link]: https://developer.apple.com/xcode
+[vim-link]: https://www.vim.org
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
 [notion-link]: https://www.notion.so
 
