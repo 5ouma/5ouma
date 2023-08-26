@@ -14,7 +14,7 @@
     <img width=500px alt="header" src="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png" />
   </picture>
 
-**🖥 Japanese minimalistic engineer who has Notion Essentials Badge.**
+**💻 Japanese minimalistic engineer who has Notion Essentials Badge.**
 <br />
 **🏞️ Also drawing pixel art.**
 
@@ -79,7 +79,7 @@
 
 <br />
 
-## 💻 Development Environments
+## 🔨 Development Environments
 
 <div align="center">
 
