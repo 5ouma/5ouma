@@ -55,10 +55,11 @@
 <div align="center">
 
 [![zsh-image]][zsh-link]
-![cpp-image]
 ![html-image]
 ![css-image]
 ![javascript-image]
+![cpp-image]
+[![go-image]][go-link]
 [![lua-image]][lua-link]
 ![markdown-image]
 
@@ -66,11 +67,13 @@
 
 [zsh-image]: https://img.shields.io/badge/Zsh-F15A24?logo=gnu-bash&logoColor=white&style=flat-square
 [zsh-link]: https://zsh.org
-[cpp-image]: https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square
 [html-image]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square
 [css-image]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square
 [javascript-image]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square
 [lua-image]: https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square
+[cpp-image]: https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square
+[go-image]: https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square
+[go-link]: https://go.dev
 [lua-link]: https://www.lua.org
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
 
