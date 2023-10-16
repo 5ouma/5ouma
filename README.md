@@ -67,12 +67,12 @@
 
 [zsh-image]: https://img.shields.io/badge/Zsh-F15A24?logo=gnu-bash&logoColor=white&style=flat-square
 [zsh-link]: https://zsh.org
-[html-image]: https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square
-[css-image]: https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square
-[javascript-image]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square
-[lua-image]: https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square
-[cpp-image]: https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square
-[go-image]: https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square
+[html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=flat-square
+[css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat-square
+[javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat-square
+[lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=flat-square
+[cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat-square
+[go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=flat-square
 [go-link]: https://go.dev
 [lua-link]: https://www.lua.org
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
@@ -86,12 +86,12 @@
 [![macos-image]][macos-link]
 [![homebrew-image]][homebrew-link]
 [![rtx-image]][rtx-link]
+[![powerlevel10k-image]][powerlevel10k-link]
 [![sheldon-image]][sheldon-link]
-[![fig-image]][fig-link]
 [![ghq-image]][ghq-link]
 <br />
 [![iterm2-image]][iterm2-link]
-[![powerlevel10k-image]][powerlevel10k-link]
+[![fig-image]][fig-link]
 [![vscode-image]][vscode-link]
 [![vim-image]][vim-link]
 [![notion-image]][notion-link]
@@ -100,20 +100,21 @@
 
 [macos-image]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square
 [macos-link]: https://developer.apple.com/macos
-[homebrew-image]: https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=333333&style=flat-square
+[homebrew-image]: https://img.shields.io/badge/Homebrew-fbb040?logo=homebrew&logoColor=333333&style=flat-square
 [homebrew-link]: https://brew.sh
-[rtx-image]: https://img.shields.io/badge/rtx-000000?logo=progate&logoColor=white&style=flat-square
+[rtx-image]: https://img.shields.io/badge/rtx-7776bf?logo=progate&logoColor=white&style=flat-square
 [rtx-link]: https://github.com/jdxcode/rtx
-[sheldon-image]: https://img.shields.io/badge/Sheldon-282D3F?logo=addthis&logoColor=white&style=flat-square
-[sheldon-link]: https://github.com/rossmacarthur/sheldon
-[fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
-[fig-link]: https://fig.io
-[ghq-image]: https://img.shields.io/badge/ghq-F05032?logo=git&logoColor=white&style=flat-square
-[ghq-link]: https://github.com/x-motemen/ghq
-[iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
-[iterm2-link]: https://iterm2.com
 [powerlevel10k-image]: https://img.shields.io/badge/❯_Powerlevel10k-e34a10?style=flat-square
 [powerlevel10k-link]: https://github.com/romkatv/powerlevel10k
+[sheldon-image]: https://img.shields.io/badge/Sheldon-282d3f?logo=addthis&logoColor=white&style=flat-square
+[sheldon-link]: https://github.com/rossmacarthur/sheldon
+[ghq-image]: https://img.shields.io/badge/ghq-f05032?logo=git&logoColor=white&style=flat-square
+[ghq-link]: https://github.com/x-motemen/ghq
+
+[iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
+[iterm2-link]: https://iterm2.com
+[fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
+[fig-link]: https://fig.io
 [vscode-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
 [vscode-link]: https://code.visualstudio.com
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
