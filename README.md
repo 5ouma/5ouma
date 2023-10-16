@@ -65,7 +65,7 @@
 
 </div>
 
-[zsh-image]: https://img.shields.io/badge/Zsh-F15A24?logo=gnu-bash&logoColor=white&style=flat-square
+[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=flat-square
 [zsh-link]: https://zsh.org
 [html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=flat-square
 [css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat-square
@@ -94,6 +94,7 @@
 [![fig-image]][fig-link]
 [![vscode-image]][vscode-link]
 [![vim-image]][vim-link]
+[![arc-image]][arc-link]
 [![notion-image]][notion-link]
 
 </div>
@@ -119,6 +120,8 @@
 [vscode-link]: https://code.visualstudio.com
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
 [vim-link]: https://www.vim.org
+[arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=flat-square
+[arc-link]: https://arc.net
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
 [notion-link]: https://www.notion.so
 
