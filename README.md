@@ -33,7 +33,7 @@
 
 </div>
 
-[read.cv-image]: https://img.shields.io/badge/read.cv-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
+[read.cv-image]: https://img.shields.io/badge/Read.cv-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
 [read.cv-link]: https://5ouma.read.cv
 [posts-image]: https://img.shields.io/badge/Posts-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
 [posts-link]: https://posts.cv/5ouma
