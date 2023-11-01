@@ -50,7 +50,7 @@
 
 <br />
 
-## 🅰️ Languages
+## 🔠 Languages
 
 <div align="center">
 
