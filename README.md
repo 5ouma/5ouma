@@ -11,6 +11,7 @@
       srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-dark.png"
       media="(prefers-color-scheme: dark)"
     />
+    <!-- markdownlint-disable MD013 -->
     <img width=500px alt="header" src="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png" />
   </picture>
 
@@ -111,7 +112,6 @@
 [sheldon-link]: https://github.com/rossmacarthur/sheldon
 [ghq-image]: https://img.shields.io/badge/ghq-f05032?logo=git&logoColor=white&style=flat-square
 [ghq-link]: https://github.com/x-motemen/ghq
-
 [iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
 [iterm2-link]: https://iterm2.com
 [fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
