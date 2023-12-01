@@ -1,7 +1,4 @@
-<br />
-
-<div align="center">
-
+<h1 align="center">
   <picture>
     <source
       srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png"
@@ -14,6 +11,9 @@
     <!-- markdownlint-disable MD013 -->
     <img width=500px alt="header" src="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png" />
   </picture>
+</h1>
+
+<div align="center">
 
 **💻 Japanese minimalistic engineer who has Notion Essentials Badge.**
 <br />
