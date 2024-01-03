@@ -86,13 +86,13 @@
 
 [![macos-image]][macos-link]
 [![homebrew-image]][homebrew-link]
-[![rtx-image]][rtx-link]
+[![mise-image]][mise-link]
 [![powerlevel10k-image]][powerlevel10k-link]
 [![sheldon-image]][sheldon-link]
 [![ghq-image]][ghq-link]
 <br />
 [![iterm2-image]][iterm2-link]
-[![fig-image]][fig-link]
+[![cw-image]][cw-link]
 [![vscode-image]][vscode-link]
 [![vim-image]][vim-link]
 [![arc-image]][arc-link]
@@ -104,18 +104,18 @@
 [macos-link]: https://developer.apple.com/macos
 [homebrew-image]: https://img.shields.io/badge/Homebrew-fbb040?logo=homebrew&logoColor=333333&style=flat-square
 [homebrew-link]: https://brew.sh
-[rtx-image]: https://img.shields.io/badge/rtx-7776bf?logo=progate&logoColor=white&style=flat-square
-[rtx-link]: https://github.com/jdxcode/rtx
+[mise-image]: https://img.shields.io/badge/mise-5772cd?style=flat-square
+[mise-link]: https://github.com/jdx/mise
 [powerlevel10k-image]: https://img.shields.io/badge/❯_Powerlevel10k-e34a10?style=flat-square
 [powerlevel10k-link]: https://github.com/romkatv/powerlevel10k
-[sheldon-image]: https://img.shields.io/badge/Sheldon-282d3f?logo=addthis&logoColor=white&style=flat-square
+[sheldon-image]: https://img.shields.io/badge/Sheldon-282d3f?style=flat-square
 [sheldon-link]: https://github.com/rossmacarthur/sheldon
 [ghq-image]: https://img.shields.io/badge/ghq-f05032?logo=git&logoColor=white&style=flat-square
 [ghq-link]: https://github.com/x-motemen/ghq
 [iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
 [iterm2-link]: https://iterm2.com
-[fig-image]: https://img.shields.io/badge/Fig-000000?logo=fig&logoColor=white&style=flat-square
-[fig-link]: https://fig.io
+[cw-image]: https://img.shields.io/badge/CodeWhisperer-000000?logo=fig&logoColor=white&style=flat-square
+[cw-link]: https://aws.amazon.com/codewhisperer
 [vscode-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
 [vscode-link]: https://code.visualstudio.com
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
