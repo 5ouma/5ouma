@@ -95,6 +95,7 @@
 [![cw-image]][cw-link]
 [![vscode-image]][vscode-link]
 [![vim-image]][vim-link]
+[![1password-image]][1password-link]
 [![arc-image]][arc-link]
 [![notion-image]][notion-link]
 
@@ -120,6 +121,8 @@
 [vscode-link]: https://code.visualstudio.com
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
 [vim-link]: https://www.vim.org
+[1password-image]: https://img.shields.io/badge/1Password-3B66BC?logo=1password&logoColor=white&style=flat-square
+[1password-link]: https://1password.com
 [arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=flat-square
 [arc-link]: https://arc.net
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
