@@ -15,9 +15,9 @@
 
 <div align="center">
 
-**💻 Japanese minimalistic engineer who has Notion Essentials Badge.**
+**💻 Japanese minimalistic engineer who loves small tools to make daily lives fun.**
 <br />
-**🏞️ Also drawing pixel art.**
+**🏞️ Sometimes drawing pixel art.**
 
 </div>
 
