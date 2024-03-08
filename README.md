@@ -53,26 +53,32 @@
 <div align="center">
 
 [![zsh-image]][zsh-link]
+[![go-image]][go-link]
+[![deno-image]][deno-link]
 ![html-image]
 ![css-image]
 ![javascript-image]
-![cpp-image]
-[![go-image]][go-link]
+[![typescript-image]][typescript-link]
 [![lua-image]][lua-link]
+![cpp-image]
 ![markdown-image]
 
 </div>
 
 [zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=flat-square
 [zsh-link]: https://zsh.org
+[go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=flat-square
+[go-link]: https://go.dev
+[deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat-square
+[deno-link]: https://deno.com
 [html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=flat-square
 [css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat-square
 [javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat-square
+[typescript-image]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
+[typescript-link]: https://www.typescriptlang.org
 [lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=flat-square
-[cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat-square
-[go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=flat-square
-[go-link]: https://go.dev
 [lua-link]: https://www.lua.org
+[cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat-square
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
 
 <br />
