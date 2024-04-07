@@ -86,7 +86,28 @@
 
 ## 🔨 Development Environments
 
-### ⌨️ CLI Tools
+### 💻 Hardware
+
+<div align="center">
+
+[![macbook-air-image]][macbook-air-link]
+[![magic-mouse-image]][magic-mouse-link]
+[![iphone-12-mini-image]][iphone-12-mini-link]
+
+</div>
+
+[macbook-air-image]: https://img.shields.io/badge/M3_MacBook_Air_13″-2f3641?logo=apple&logoColor=white&style=flat-square
+[macbook-air-link]: https://www.apple.com/macbook-air
+[magic-mouse-image]: https://img.shields.io/badge/Magic_Mouse_2-2b2c2f?logo=apple&logoColor=white&style=flat-square
+[magic-mouse-link]: https://www.apple.com/shop/product/MMMQ3AM/A
+[iphone-12-mini-image]: https://img.shields.io/badge/iPhone_12_mini-1d1d1f?logo=apple&logoColor=white&style=flat-square
+[iphone-12-mini-link]: https://www.apple.com/iphone-12
+
+<br />
+
+### 🧰 Software
+
+#### ⌨️ CLI Tools
 
 <div align="center">
 
@@ -112,7 +133,7 @@
 [vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
 [vim-link]: https://www.vim.org
 
-### 🖱️ GUI Apps
+#### 🖱️ GUI Apps
 
 <div align="center">
 
