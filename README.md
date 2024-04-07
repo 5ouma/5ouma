@@ -86,27 +86,19 @@
 
 ## 🔨 Development Environments
 
+### ⌨️ CLI Tools
+
 <div align="center">
 
-[![macos-image]][macos-link]
 [![homebrew-image]][homebrew-link]
 [![mise-image]][mise-link]
 [![powerlevel10k-image]][powerlevel10k-link]
 [![sheldon-image]][sheldon-link]
 [![ghq-image]][ghq-link]
-<br />
-[![iterm2-image]][iterm2-link]
-[![cw-image]][cw-link]
-[![vscode-image]][vscode-link]
 [![vim-image]][vim-link]
-[![1password-image]][1password-link]
-[![arc-image]][arc-link]
-[![notion-image]][notion-link]
 
 </div>
 
-[macos-image]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square
-[macos-link]: https://developer.apple.com/macos
 [homebrew-image]: https://img.shields.io/badge/Homebrew-fbb040?logo=homebrew&logoColor=333333&style=flat-square
 [homebrew-link]: https://brew.sh
 [mise-image]: https://img.shields.io/badge/mise-5772cd?style=flat-square
@@ -117,20 +109,35 @@
 [sheldon-link]: https://github.com/rossmacarthur/sheldon
 [ghq-image]: https://img.shields.io/badge/ghq-f05032?logo=git&logoColor=white&style=flat-square
 [ghq-link]: https://github.com/x-motemen/ghq
+[vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
+[vim-link]: https://www.vim.org
+
+### 🖱️ GUI Apps
+
+<div align="center">
+
+[![iterm2-image]][iterm2-link]
+[![cw-image]][cw-link]
+[![vs-code-image]][vs-code-link]
+<br />
+[![arc-image]][arc-link]
+[![notion-image]][notion-link]
+[![1password-image]][1password-link]
+
+</div>
+
 [iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
 [iterm2-link]: https://iterm2.com
 [cw-image]: https://img.shields.io/badge/CodeWhisperer-000000?logo=fig&logoColor=white&style=flat-square
 [cw-link]: https://aws.amazon.com/codewhisperer
-[vscode-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
-[vscode-link]: https://code.visualstudio.com
-[vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
-[vim-link]: https://www.vim.org
-[1password-image]: https://img.shields.io/badge/1Password-3B66BC?logo=1password&logoColor=white&style=flat-square
-[1password-link]: https://1password.com
+[vs-code-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
+[vs-code-link]: https://code.visualstudio.com
 [arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=flat-square
-[arc-link]: https://arc.net
+[arc-link]: https://arc.net/gift/friend-of-souma
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
 [notion-link]: https://www.notion.so
+[1password-image]: https://img.shields.io/badge/1Password-3B66BC?logo=1password&logoColor=white&style=flat-square
+[1password-link]: https://1password.com
 
 <br /><br />
 
