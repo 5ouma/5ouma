@@ -66,21 +66,21 @@
 
 </div>
 
-[go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=flat-square
+[go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=for-the-badge
 [go-link]: https://go.dev
-[typescript-image]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
+[typescript-image]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge
 [typescript-link]: https://www.typescriptlang.org
-[deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat-square
+[deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge
 [deno-link]: https://deno.com
-[lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=flat-square
+[lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=for-the-badge
 [lua-link]: https://www.lua.org
-[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=flat-square
+[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=for-the-badge
 [zsh-link]: https://zsh.org
-[html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=flat-square
-[css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat-square
-[javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat-square
-[cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat-square
-[markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
+[html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=for-the-badge
+[css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge
+[javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge
+[cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=for-the-badge
+[markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge
 
 <br /><br />
 
@@ -96,11 +96,11 @@
 
 </div>
 
-[macbook-air-image]: https://img.shields.io/badge/M3_MacBook_Air_13″-2f3641?logo=apple&logoColor=white&style=flat-square
+[macbook-air-image]: https://img.shields.io/badge/M3_MacBook_Air_13″-2f3641?logo=apple&logoColor=white&style=for-the-badge
 [macbook-air-link]: https://www.apple.com/macbook-air
-[magic-mouse-image]: https://img.shields.io/badge/Magic_Mouse_2-2b2c2f?logo=apple&logoColor=white&style=flat-square
+[magic-mouse-image]: https://img.shields.io/badge/Magic_Mouse_2-2b2c2f?logo=apple&logoColor=white&style=for-the-badge
 [magic-mouse-link]: https://www.apple.com/shop/product/MMMQ3AM/A
-[iphone-12-mini-image]: https://img.shields.io/badge/iPhone_12_mini-1d1d1f?logo=apple&logoColor=white&style=flat-square
+[iphone-12-mini-image]: https://img.shields.io/badge/iPhone_12_mini-1d1d1f?logo=apple&logoColor=white&style=for-the-badge
 [iphone-12-mini-link]: https://www.apple.com/iphone-12
 
 <br />
@@ -120,17 +120,17 @@
 
 </div>
 
-[homebrew-image]: https://img.shields.io/badge/Homebrew-fbb040?logo=homebrew&logoColor=333333&style=flat-square
+[homebrew-image]: https://img.shields.io/badge/Homebrew-fbb040?logo=homebrew&logoColor=333333&style=for-the-badge
 [homebrew-link]: https://brew.sh
-[mise-image]: https://img.shields.io/badge/mise-5772cd?style=flat-square
+[mise-image]: https://img.shields.io/badge/mise-5772cd?style=for-the-badge
 [mise-link]: https://github.com/jdx/mise
-[powerlevel10k-image]: https://img.shields.io/badge/❯_Powerlevel10k-e34a10?style=flat-square
+[powerlevel10k-image]: https://img.shields.io/badge/❯_Powerlevel10k-e34a10?style=for-the-badge
 [powerlevel10k-link]: https://github.com/romkatv/powerlevel10k
-[sheldon-image]: https://img.shields.io/badge/Sheldon-282d3f?style=flat-square
+[sheldon-image]: https://img.shields.io/badge/Sheldon-282d3f?style=for-the-badge
 [sheldon-link]: https://github.com/rossmacarthur/sheldon
-[ghq-image]: https://img.shields.io/badge/ghq-f05032?logo=git&logoColor=white&style=flat-square
+[ghq-image]: https://img.shields.io/badge/ghq-f05032?logo=git&logoColor=white&style=for-the-badge
 [ghq-link]: https://github.com/x-motemen/ghq
-[vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square
+[vim-image]: https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge
 [vim-link]: https://www.vim.org
 
 #### 🖱️ GUI Apps
@@ -147,17 +147,17 @@
 
 </div>
 
-[iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=flat-square
+[iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=for-the-badge
 [iterm2-link]: https://iterm2.com
-[cw-image]: https://img.shields.io/badge/CodeWhisperer-000000?logo=fig&logoColor=white&style=flat-square
+[cw-image]: https://img.shields.io/badge/CodeWhisperer-000000?logo=fig&logoColor=white&style=for-the-badge
 [cw-link]: https://aws.amazon.com/codewhisperer
-[vs-code-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square
+[vs-code-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge
 [vs-code-link]: https://code.visualstudio.com
-[arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=flat-square
+[arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=for-the-badge
 [arc-link]: https://arc.net/gift/friend-of-souma
-[notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
+[notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge
 [notion-link]: https://www.notion.so
-[1password-image]: https://img.shields.io/badge/1Password-3B66BC?logo=1password&logoColor=white&style=flat-square
+[1password-image]: https://img.shields.io/badge/1Password-3B66BC?logo=1password&logoColor=white&style=for-the-badge
 [1password-link]: https://1password.com
 
 <br /><br />
