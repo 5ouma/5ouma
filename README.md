@@ -15,7 +15,7 @@
 
 <div align="center">
 
-**💻 Japanese minimalistic engineer who loves small tools to make daily lives fun.**
+**💻 Japanese minimalistic engineer who loves small tools to make daily life fun.**
 <br />
 **🏞️ Sometimes drawing pixel art.**
 
@@ -46,42 +46,43 @@
 [credly-image]: https://img.shields.io/badge/Credly-5ouma-ff8832?labelColor=ff6b00&logo=credly&logoColor=white&style=for-the-badge
 [credly-link]: https://www.credly.com/users/5ouma
 
-<br />
+<br /><br />
 
 ## 🔠 Languages
 
 <div align="center">
 
-[![zsh-image]][zsh-link]
 [![go-image]][go-link]
+[![typescript-image]][typescript-link]
 [![deno-image]][deno-link]
+[![lua-image]][lua-link]
+[![zsh-image]][zsh-link]
+<br />
 ![html-image]
 ![css-image]
 ![javascript-image]
-[![typescript-image]][typescript-link]
-[![lua-image]][lua-link]
 ![cpp-image]
 ![markdown-image]
 
 </div>
 
-[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=flat-square
-[zsh-link]: https://zsh.org
 [go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=flat-square
 [go-link]: https://go.dev
+[typescript-image]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
+[typescript-link]: https://www.typescriptlang.org
 [deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=flat-square
 [deno-link]: https://deno.com
+[lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=flat-square
+[lua-link]: https://www.lua.org
+[zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=flat-square
+[zsh-link]: https://zsh.org
 [html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=flat-square
 [css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=flat-square
 [javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=flat-square
-[typescript-image]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square
-[typescript-link]: https://www.typescriptlang.org
-[lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=flat-square
-[lua-link]: https://www.lua.org
 [cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=flat-square
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat-square
 
-<br />
+<br /><br />
 
 ## 🔨 Development Environments
 
@@ -131,7 +132,7 @@
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square
 [notion-link]: https://www.notion.so
 
-<br />
+<br /><br />
 
 ## 📊 GitHub Stats
 
