@@ -52,20 +52,20 @@
 
 <br /><br />
 
-## 🔠 Languages
+## 💪 Skills
 
 <div align="center">
 
 [![go-image]][go-link]
 [![typescript-image]][typescript-link]
 [![deno-image]][deno-link]
+[![docker-image]][docker-link]
 [![lua-image]][lua-link]
 [![zsh-image]][zsh-link]
 <br />
 ![html-image]
 ![css-image]
 ![javascript-image]
-![cpp-image]
 ![markdown-image]
 
 </div>
@@ -76,6 +76,8 @@
 [typescript-link]: https://www.typescriptlang.org
 [deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge
 [deno-link]: https://deno.com
+[docker-image]: https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=for-the-badge
+[docker-link]: https://www.docker.com
 [lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=for-the-badge
 [lua-link]: https://www.lua.org
 [zsh-image]: https://img.shields.io/badge/Zsh-f15a24?logo=zsh&logoColor=white&style=for-the-badge
@@ -83,7 +85,6 @@
 [html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=for-the-badge
 [css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge
 [javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge
-[cpp-image]: https://img.shields.io/badge/C++-00599c?logo=c%2B%2B&logoColor=white&style=for-the-badge
 [markdown-image]: https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge
 
 <br /><br />
