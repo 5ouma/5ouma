@@ -60,7 +60,9 @@
 ![javascript-image]
 [![zsh-image]][zsh-link]
 <br />
+[![astro-image]][astro-link]
 [![deno-image]][deno-link]
+[![bun-image]][bun-link]
 [![docker-image]][docker-link]
 
 </div>
@@ -77,8 +79,12 @@
 [css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge
 [javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge
 
+[astro-image]: https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge
+[astro-link]: https://astro.build
 [deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge
 [deno-link]: https://deno.com
+[bun-image]: https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge
+[bun-link]: https://bun.sh
 [docker-image]: https://img.shields.io/badge/Docker-2496ed?logo=docker&logoColor=white&style=for-the-badge
 [docker-link]: https://www.docker.com
 
