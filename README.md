@@ -38,7 +38,7 @@
 [read.cv-link]: https://5ouma.read.cv
 [posts-image]: https://img.shields.io/badge/Posts-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
 [posts-link]: https://posts.cv/5ouma
-[misskey-image]: https://img.shields.io/badge/Misskey-@5ouma@misskey.5ouma.me-C9FB03?labelColor=a1ca03&logo=misskey&logoColor=white&style=for-the-badge
+[misskey-image]: https://img.shields.io/badge/Misskey-@5ouma@misskey.5ouma.me-c9fb03?labelColor=a1ca03&logo=misskey&logoColor=white&style=for-the-badge
 [misskey-link]: https://misskey.5ouma.me/@5ouma
 [dotpict-image]: https://img.shields.io/badge/dotpict-5ouma-f489b2?labelColor=f15d94&logo=aseprite&logoColor=white&style=for-the-badge
 [dotpict-link]: https://5ouma.dotpict.net
@@ -72,7 +72,7 @@
 
 [go-image]: https://img.shields.io/badge/Go-00add8?logo=go&logoColor=white&style=for-the-badge
 [go-link]: https://go.dev
-[typescript-image]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge
+[typescript-image]: https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge
 [typescript-link]: https://www.typescriptlang.org
 [lua-image]: https://img.shields.io/badge/Lua-2c2d72?logo=lua&logoColor=white&style=for-the-badge
 [lua-link]: https://www.lua.org
@@ -81,7 +81,7 @@
 [html-image]: https://img.shields.io/badge/HTML-e34f26?logo=html5&logoColor=white&style=for-the-badge
 [css-image]: https://img.shields.io/badge/CSS-1572b6?logo=css3&logoColor=white&style=for-the-badge
 [javascript-image]: https://img.shields.io/badge/JavaScript-f7df1e?logo=javascript&logoColor=black&style=for-the-badge
-[astro-image]: https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge
+[astro-image]: https://img.shields.io/badge/Astro-bc52ee?logo=astro&logoColor=white&style=for-the-badge
 [astro-link]: https://astro.build
 [deno-image]: https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge
 [deno-link]: https://deno.com
@@ -138,13 +138,13 @@
 [iterm2-link]: https://iterm2.com
 [q-image]: https://img.shields.io/badge/Amazon_Q-000000?logo=fig&logoColor=white&style=for-the-badge
 [q-link]: https://aws.amazon.com/q/developer
-[vs-code-image]: https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge
+[vs-code-image]: https://img.shields.io/badge/Visual_Studio_Code-007acc?logo=visual-studio-code&logoColor=white&style=for-the-badge
 [vs-code-link]: https://code.visualstudio.com
 [arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=for-the-badge
 [arc-link]: https://arc.net/gift/friend-of-souma
 [notion-image]: https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge
 [notion-link]: https://www.notion.so
-[1password-image]: https://img.shields.io/badge/1Password-3B66BC?logo=1password&logoColor=white&style=for-the-badge
+[1password-image]: https://img.shields.io/badge/1Password-3b66bc?logo=1password&logoColor=white&style=for-the-badge
 [1password-link]: https://1password.com
 
 <br /><br />
