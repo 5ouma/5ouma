@@ -124,8 +124,7 @@
 
 <div align="center">
 
-[![iterm2-image]][iterm2-link]
-[![q-image]][q-link]
+[![ghostty-image]][ghostty-link]
 [![vs-code-image]][vs-code-link]
 <br />
 [![arc-image]][arc-link]
@@ -134,10 +133,8 @@
 
 </div>
 
-[iterm2-image]: https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=white&style=for-the-badge
-[iterm2-link]: https://iterm2.com
-[q-image]: https://img.shields.io/badge/Amazon_Q-000000?logo=fig&logoColor=white&style=for-the-badge
-[q-link]: https://aws.amazon.com/q/developer
+[ghostty-image]: https://img.shields.io/badge/Ghostty-3551f3?logo=ghostty&logoColor=white&style=for-the-badge
+[ghostty-link]: https://ghostty.org
 [vs-code-image]: https://img.shields.io/badge/Visual_Studio_Code-007acc?logo=visual-studio-code&logoColor=white&style=for-the-badge
 [vs-code-link]: https://code.visualstudio.com
 [arc-image]: https://img.shields.io/badge/Arc-fcbfbd?logo=arc&logoColor=black&style=for-the-badge
