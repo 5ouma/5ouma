@@ -16,8 +16,6 @@
 <div align="center">
 
 **💻 Japanese minimalistic engineer who loves small tools to make daily life fun.**
-<br />
-**🏞️ Sometimes drawing pixel art.**
 
 </div>
 
