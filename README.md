@@ -27,7 +27,6 @@
 [![mixi2-image]][mixi2-link]
 <br />
 [![dotpict-image]][dotpict-link]
-[![monkeytype-image]][monkeytype-link]
 [![wakatime-image]][wakatime-link]
 [![credly-image]][credly-link]
 
@@ -43,8 +42,6 @@
 [mixi2-link]: https://mixi.social/@Souma
 [dotpict-image]: https://img.shields.io/badge/dotpict-5ouma-f489b2?labelColor=f15d94&logo=aseprite&logoColor=white&style=for-the-badge
 [dotpict-link]: https://5ouma.dotpict.net
-[monkeytype-image]: https://img.shields.io/badge/Monkeytype-5ouma-ecc63b?labelColor=e2b714&logo=monkeytype&logoColor=black&style=for-the-badge
-[monkeytype-link]: https://monkeytype.com/profile/5ouma
 [wakatime-image]: https://img.shields.io/badge/Wakatime-@5ouma-191919?labelColor=000000&logo=wakatime&logoColor=white&style=for-the-badge
 [wakatime-link]: https://wakatime.com/@5ouma
 [credly-image]: https://img.shields.io/badge/Credly-5ouma-ff8832?labelColor=ff6b00&logo=credly&logoColor=white&style=for-the-badge
