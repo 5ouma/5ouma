@@ -22,7 +22,6 @@
 <div align="center">
 
 [![read.cv-image]][read.cv-link]
-[![posts-image]][posts-link]
 [![misskey-image]][misskey-link]
 [![mixi2-image]][mixi2-link]
 <br />
@@ -34,8 +33,6 @@
 
 [read.cv-image]: https://img.shields.io/badge/Read.cv-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
 [read.cv-link]: https://5ouma.read.cv
-[posts-image]: https://img.shields.io/badge/Posts-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
-[posts-link]: https://posts.cv/5ouma
 [misskey-image]: https://img.shields.io/badge/Misskey-@5ouma@misskey.5ouma.me-c9fb03?labelColor=a1ca03&logo=misskey&logoColor=white&style=for-the-badge
 [misskey-link]: https://misskey.5ouma.me/@5ouma
 [mixi2-image]: https://img.shields.io/badge/mixi2-@Souma-ffbca8?labelColor=ff9877&logo=mixi2&logoColor=white&style=for-the-badge
