@@ -21,8 +21,8 @@
 
 <div align="center">
 
-[![read.cv-image]][read.cv-link]
 [![misskey-image]][misskey-link]
+[![bluesky-image]][bluesky-link]
 [![mixi2-image]][mixi2-link]
 <br />
 [![dotpict-image]][dotpict-link]
@@ -31,10 +31,10 @@
 
 </div>
 
-[read.cv-image]: https://img.shields.io/badge/Read.cv-5ouma-282828?labelColor=111111&logo=readdotcv&logoColor=white&style=for-the-badge
-[read.cv-link]: https://5ouma.read.cv
 [misskey-image]: https://img.shields.io/badge/Misskey-@5ouma@misskey.5ouma.me-c9fb03?labelColor=a1ca03&logo=misskey&logoColor=white&style=for-the-badge
 [misskey-link]: https://misskey.5ouma.me/@5ouma
+[bluesky-image]: https://img.shields.io/badge/Bluesky-5ouma.misskey.5ouma.me.ap.brid.gy-329fff?labelColor=0285ff&logo=bluesky&logoColor=white&style=for-the-badge
+[bluesky-link]: https://bsky.app/profile/5ouma.misskey.5ouma.me.ap.brid.gy
 [mixi2-image]: https://img.shields.io/badge/mixi2-@Souma-ffbca8?labelColor=ff9877&logo=mixi2&logoColor=white&style=for-the-badge
 [mixi2-link]: https://mixi.social/@Souma
 [dotpict-image]: https://img.shields.io/badge/dotpict-5ouma-f489b2?labelColor=f15d94&logo=aseprite&logoColor=white&style=for-the-badge
