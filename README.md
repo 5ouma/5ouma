@@ -8,7 +8,6 @@
       srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-dark.png"
       media="(prefers-color-scheme: dark)"
     />
-    <!-- markdownlint-disable MD013 -->
     <img width=500px alt="header" src="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png" />
   </picture>
 </h1>
