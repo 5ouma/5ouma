@@ -1,16 +1,4 @@
-<h1 align="center">
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png"
-      media="(prefers-color-scheme: light)"
-    />
-    <source
-      srcset="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-dark.png"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img width=500px alt="header" src="https://raw.githubusercontent.com/5ouma/5ouma/main/images/header-light.png" />
-  </picture>
-</h1>
+<h1 align=center>Souma</h1>
 
 <div align="center">
 
