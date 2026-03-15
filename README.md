@@ -10,7 +10,6 @@
 
 [![misskey-image]][misskey-link]
 [![bluesky-image]][bluesky-link]
-[![mixi2-image]][mixi2-link]
 <br />
 [![dotpict-image]][dotpict-link]
 [![wakatime-image]][wakatime-link]
@@ -22,8 +21,6 @@
 [misskey-link]: https://misskey.5ouma.me/@5ouma
 [bluesky-image]: https://img.shields.io/badge/Bluesky-5ouma.misskey.5ouma.me.ap.brid.gy-329fff?labelColor=0285ff&logo=bluesky&logoColor=white&style=for-the-badge
 [bluesky-link]: https://bsky.app/profile/5ouma.misskey.5ouma.me.ap.brid.gy
-[mixi2-image]: https://img.shields.io/badge/mixi2-@Souma-ffbca8?labelColor=ff9877&logo=mixi2&logoColor=white&style=for-the-badge
-[mixi2-link]: https://mixi.social/@Souma
 [dotpict-image]: https://img.shields.io/badge/dotpict-5ouma-f489b2?labelColor=f15d94&logo=aseprite&logoColor=white&style=for-the-badge
 [dotpict-link]: https://5ouma.dotpict.net
 [wakatime-image]: https://img.shields.io/badge/Wakatime-@5ouma-191919?labelColor=000000&logo=wakatime&logoColor=white&style=for-the-badge
